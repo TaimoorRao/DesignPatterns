@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\COR\COR\bin\Debug\COR.exe.config
+C:\Users\User\source\repos\COR\COR\bin\Debug\COR.exe
+C:\Users\User\source\repos\COR\COR\bin\Debug\COR.pdb
+C:\Users\User\source\repos\COR\COR\obj\Debug\COR.csprojAssemblyReference.cache
+C:\Users\User\source\repos\COR\COR\obj\Debug\COR.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\COR\COR\obj\Debug\COR.exe
+C:\Users\User\source\repos\COR\COR\obj\Debug\COR.pdb
