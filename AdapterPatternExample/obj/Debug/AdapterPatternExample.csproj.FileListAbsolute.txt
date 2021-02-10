@@ -1,0 +1,7 @@
+F:\ASE\Pattern\AdapterPatternExample\bin\Debug\AdapterPatternExample.exe.config
+F:\ASE\Pattern\AdapterPatternExample\bin\Debug\AdapterPatternExample.exe
+F:\ASE\Pattern\AdapterPatternExample\bin\Debug\AdapterPatternExample.pdb
+F:\ASE\Pattern\AdapterPatternExample\obj\Debug\AdapterPatternExample.csprojAssemblyReference.cache
+F:\ASE\Pattern\AdapterPatternExample\obj\Debug\AdapterPatternExample.csproj.CoreCompileInputs.cache
+F:\ASE\Pattern\AdapterPatternExample\obj\Debug\AdapterPatternExample.exe
+F:\ASE\Pattern\AdapterPatternExample\obj\Debug\AdapterPatternExample.pdb
