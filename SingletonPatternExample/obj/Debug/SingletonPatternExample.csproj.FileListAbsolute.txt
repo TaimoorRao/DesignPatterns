@@ -1,0 +1,7 @@
+F:\ASE\Pattern\SingletonPatternExample\bin\Debug\SingletonPatternExample.exe.config
+F:\ASE\Pattern\SingletonPatternExample\bin\Debug\SingletonPatternExample.exe
+F:\ASE\Pattern\SingletonPatternExample\bin\Debug\SingletonPatternExample.pdb
+F:\ASE\Pattern\SingletonPatternExample\obj\Debug\SingletonPatternExample.csprojAssemblyReference.cache
+F:\ASE\Pattern\SingletonPatternExample\obj\Debug\SingletonPatternExample.csproj.CoreCompileInputs.cache
+F:\ASE\Pattern\SingletonPatternExample\obj\Debug\SingletonPatternExample.exe
+F:\ASE\Pattern\SingletonPatternExample\obj\Debug\SingletonPatternExample.pdb
